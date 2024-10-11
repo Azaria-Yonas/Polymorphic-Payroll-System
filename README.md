@@ -32,7 +32,7 @@ Before proceeding, make sure you are familiar with classes, structures, pointers
 
  - To run the code you can copy and paste this:
 
-     <u>g++ -o implementation.exe BasePlusCommissionEmployee.cpp CommissionEmployee.cpp Employee.cpp HourlyWorker.cpp myTest.cpp SalariedEmployee.cpp PieceWorker.cpp</u>
+            g++ -o implementation.exe BasePlusCommissionEmployee.cpp CommissionEmployee.cpp Employee.cpp HourlyWorker.cpp myTest.cpp SalariedEmployee.cpp PieceWorker.cpp</u>
 
    into the terminal 
 
