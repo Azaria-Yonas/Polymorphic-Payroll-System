@@ -2,12 +2,7 @@
 
 ## Overview
 
-A polymorphic payroll system demostrating how concepts like inheritance and polymorphism take shape in C++.
-
-
-### Note
-
-Before proceeding, make sure you are familiar with classes, structures, pointers (including dynamic allocation),  constructors and deconstructors, encapsulation, inheritance, virtual function, etc.
+A simple polymorphic payroll system demostrating how concepts like inheritance and polymorphism take shape in C++.
 
 ## Features
 
@@ -34,12 +29,11 @@ Before proceeding, make sure you are familiar with classes, structures, pointers
 
             g++ -o implementation.exe BasePlusCommissionEmployee.cpp CommissionEmployee.cpp Employee.cpp HourlyWorker.cpp myTest.cpp SalariedEmployee.cpp PieceWorker.cpp</u>
 
-   into the terminal 
+   into the command line 
 
 ### Note
    - Make sure all the files are in the same folder.
 
 ### Prerequisites
 
-- C++ 13.1.0
-- An IDE + Complier (e.g., g++)
+- Complier (e.g., g++)
